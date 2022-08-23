@@ -1,0 +1,48 @@
+[
+    {
+        "id": "1",
+        "name": "Ishan Jain", 
+        "profession": "Software Engineer",
+        "age": "18-24",
+        "location": "Pretoria",
+        "image": "./assets/img1.jpg",
+        "description" : "The best thing about my career is how it started, most people would be mad if I shared." 
+    },
+    {
+        "id": "2",
+        "name": "Oratilwe Modise",
+        "profession": "Data Engineer",
+        "age": "25-30",
+        "location": "Johanneburg",
+        "image": "./assets/img2.jpg",
+        "description" : "I don't know what I'm doing, but I've been told that I'm quite good at it." 
+    },
+    {
+        "id": "3",
+        "name": "Jenine Wallace",
+        "profession": "Cloud Architect",
+        "age": "25-30",
+        "location": "Durban",
+        "image": "./assets/img3.jpg",
+        "description" : "I trust my work to a point where I have my whole life backed up  in the cloud." 
+    },
+    {
+        "id": "4",
+        "name": "Makhoszana Xaba",
+        "profession": "UX Researcher",
+        "age": "18-24",
+        "location": "Johanneburg",
+        "image": "./assets/img4.jpg",
+        "description" : "I do this for the excitement my grandmother has on her face when she uses technology that keeps us in touch with her." 
+    },
+    {
+        "id": "5",
+        "name": "Zola Mavuso",
+        "profession": "Machine Learning Specialist",
+        "age": "25-30",
+        "location": "Cape Town",
+        "image": "./assets/img5.jpg",
+        "description" : "I am here for the money, travelling and building a clone of myself." 
+    }
+ 
+]
