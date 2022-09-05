@@ -4,7 +4,7 @@ import { Box, Heading, AspectRatio, Image, Text, Center, HStack, Stack, NativeBa
 
   const Card = () => {
     return <Box alignItems="center">
-        <Box maxW="80" rounded="lg" overflow="hidden" borderColor="coolGray.200" borderWidth="1" _dark={{
+        <Box maxW="80" rounded="md" overflow="hidden" borderColor="coolGray.200" borderWidth="1" _dark={{
         borderColor: "coolGray.600",
         backgroundColor: "gray.700"
       }} _web={{
@@ -63,8 +63,8 @@ import { Box, Heading, AspectRatio, Image, Text, Center, HStack, Stack, NativeBa
       export default () => {
           return (
             <NativeBaseProvider>
-              <Center flex={1} px="3">
-                  <Example />
+              <Center flex={1} px="2">
+                  <Card />
               </Center>
             </NativeBaseProvider>
           );
